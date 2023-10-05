@@ -4,9 +4,9 @@ Code repository for the paper titled "From Pre-training to Meta-Learning: A jour
 The code, datasets and instruction on how to run the experiments will be made availabe after puplication of the paper.
 
 
-*Notes:*
+> [!NOTE]
+> The Pre-Trained Language Models (PLMs) and datasets introduced in this work are/will be available @ HuggingFace: [huggingface.co/dimitriz](https://huggingface.co/dimitriz)
 
-The Pre-Trained Language Models (PLMs) and datasets introduced in this work are/will be available @ HuggingFace: [huggingface.co/dimitriz](https://huggingface.co/dimitriz)
 
 | PLM | Link | Publicly Available |
 | --- | --- | --- |
@@ -27,8 +27,7 @@ The Pre-Trained Language Models (PLMs) and datasets introduced in this work are/
 
 
 
-Authors: 
-_Dimitrios Zaikis_ and _Ioannis Vlahavas_
+> Authors: _Dimitrios Zaikis_ and _Ioannis Vlahavas_
 
 
 [^1]: Sentence Transformer.
