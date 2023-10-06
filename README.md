@@ -1,5 +1,5 @@
 # PT-t-ML
-Code repository for the paper titled "From Pre-training to Meta-Learning: A journey in Low-Resource-Language Representation Learning".
+Code repository for the paper titled "From Pre-training to Meta-Learning: A Journey in Low-Resource-Language Representation Learning".
 
 The code, datasets and instruction on how to run the experiments will be made availabe after puplication of the paper.
 
